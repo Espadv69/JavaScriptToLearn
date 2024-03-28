@@ -1,6 +1,3 @@
-// ¡Por supuesto! Aquí tienes un ejemplo sencillo de cómo usar un bucle "do while" en JavaScript para simular comer galletas hasta que estés lleno:
-
-
 // // Variable para contar cuántas galletas has comido
 let galletasComidas = 0;
 
